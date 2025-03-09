@@ -1,6 +1,6 @@
 
 
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import { useCountryStore } from "../../store/useCountryStore"; 
 import CountriesList from "../../components/CountriesList/CountriesList"; 
 
